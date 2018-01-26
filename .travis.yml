@@ -25,7 +25,7 @@ after_script:
 
 branches:
   only:
-    - master
+    - dev
 env:
  global:
    - GH_REF: github.com/Willanzhang/Willanzhang.github.io
