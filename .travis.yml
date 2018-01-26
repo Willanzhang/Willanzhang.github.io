@@ -11,16 +11,15 @@ install:
 
 script:
   - hexo g
-  - hexo d
 
 after_script:
-  - cp README.md googled*.html public && cd ./public
+  - cd ./public
   - git init
   - git config user.name "Willanzhang"
   - git config user.email "631871612@qq.com"
   - git add -A
-  - git commit -m "Update"
-  - git push --force "https://${GH_TOKEN}@${GH_REF}" master:master
+  - git commit -m "Update docs"
+  - git push --force "https://${myblog}@${GH_REF}" master:master
 # E: Build LifeCycle
 
 branches:
