@@ -80,3 +80,9 @@ deploy:
   type: git
   repository: https://github.com/Willanzhang/Willanzhang.github.io
   branch: master
+
+archive_generator:
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
