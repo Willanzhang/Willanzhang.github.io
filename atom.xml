@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>William&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://Willanzhang.github.io/william.github.io/"/>
+  <updated>2018-01-27T10:41:21.852Z</updated>
+  <id>https://Willanzhang.github.io/william.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>wantyou</title>
+    <link href="https://Willanzhang.github.io/william.github.io/2018/01/27/wantyou/"/>
+    <id>https://Willanzhang.github.io/william.github.io/2018/01/27/wantyou/</id>
+    <published>2018-01-27T17:51:29.000Z</published>
+    <updated>2018-01-27T10:41:21.852Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>闲谈</title>
+    <link href="https://Willanzhang.github.io/william.github.io/2018/01/26/%E9%97%B2%E8%B0%88/"/>
+    <id>https://Willanzhang.github.io/william.github.io/2018/01/26/闲谈/</id>
+    <published>2018-01-26T16:03:21.000Z</published>
+    <updated>2018-01-27T10:41:21.852Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>love-you</title>
+    <link href="https://Willanzhang.github.io/william.github.io/2018/01/26/love-you/"/>
+    <id>https://Willanzhang.github.io/william.github.io/2018/01/26/love-you/</id>
+    <published>2018-01-26T13:46:08.000Z</published>
+    <updated>2018-01-27T10:41:21.852Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://Willanzhang.github.io/william.github.io/2018/01/25/hello/"/>
+    <id>https://Willanzhang.github.io/william.github.io/2018/01/25/hello/</id>
+    <published>2018-01-25T16:36:29.000Z</published>
+    <updated>2018-01-27T10:41:21.852Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
